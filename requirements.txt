@@ -1,0 +1,9 @@
+cmake
+dlib
+face-recognition
+numpy
+opencv-python
+flask
+keras
+matplotlib
+tensorflow
